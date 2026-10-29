@@ -1,0 +1,10 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2026-10-29
+  Features:
+    - Grants each player an equipped 6x6 starter armor and 10 energy-free construction robots once per save.
+    - Adds a startup robot flight speed multiplier from 1 to 100.
+    - Includes optional freeplay intro and crashsite settings.
+    - Includes English and Russian translations.
+  Info:
+    - Inspired by FasterStart by magu5026.

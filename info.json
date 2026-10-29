@@ -1,0 +1,10 @@
+{
+  "name": "AcceleratedStart",
+  "version": "1.0.0",
+  "title": "Accelerated Start",
+  "author": "Tsyklop",
+  "factorio_version": "2.1",
+  "homepage": "https://github.com/Tsyklop/factorio-accelerated-start",
+  "description": "Start building sooner: equipped modular armor, 10 energy-free construction robots, and a configurable 1-100x robot speed multiplier. Inspired by FasterStart by magu5026.",
+  "dependencies": ["base >= 2.1.0", "! FasterStart", "! FasterStartTsyklop"]
+}
