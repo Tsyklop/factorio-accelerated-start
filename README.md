@@ -54,7 +54,7 @@ which introduced the starter-armor-and-robots idea used here.
 
 Implementation and maintenance: **Tsyklop**.
 
-[Source code](https://github.com/Tsyklop/factorio-accelerated-start).
+[Source code](https://github.com/Tsyklop/accelerated-start).
 
 ## License
 
